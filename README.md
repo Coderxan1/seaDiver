@@ -1,1 +1,3 @@
-# seaDiver
+# seaDiver Website
+
+Website using Html, Css, Js
